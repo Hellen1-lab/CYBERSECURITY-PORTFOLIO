@@ -5,7 +5,7 @@ A collection of my cybersecurity projects
 
 | PROJECTS | DESCRIPTION | LINK |
 
-1. CYBERSECURITY PRACTICALS  | Summary of checkpoints labs from GOMYCODE physical training.
+1. CYBERSECURITY PRACTICALS  | Summary of checkpoints labs from GOMYCODE physical training. https://github.com/Hellen1-lab/Cybersecurity-projects
 
 2. CISCO PACKET TRACER WEB LAB | Networking lab carried out during Cisco networking Course. https://github.com/Hellen1-lab/Cisco-packet-tracer-labs
 
